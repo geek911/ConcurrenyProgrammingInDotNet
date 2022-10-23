@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateAndStartTaskPractical
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CancellingTaskPractical", "CancellingTaskPractical\CancellingTaskPractical.csproj", "{4F2C58AD-35C3-4C02-8320-B31A5A4980BF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaitForATaskPractical", "WaitForATaskPractical\WaitForATaskPractical.csproj", "{5216DB30-846A-4B54-9B5B-B11DF92F9E70}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,9 +22,14 @@ Global
 		{4F2C58AD-35C3-4C02-8320-B31A5A4980BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F2C58AD-35C3-4C02-8320-B31A5A4980BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F2C58AD-35C3-4C02-8320-B31A5A4980BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5216DB30-846A-4B54-9B5B-B11DF92F9E70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5216DB30-846A-4B54-9B5B-B11DF92F9E70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5216DB30-846A-4B54-9B5B-B11DF92F9E70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5216DB30-846A-4B54-9B5B-B11DF92F9E70}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{38187AA5-754D-4EF5-B1FE-8D152CBE97AD} = {C8B41406-6CF2-459E-A658-53655301E46C}
 		{4F2C58AD-35C3-4C02-8320-B31A5A4980BF} = {C8B41406-6CF2-459E-A658-53655301E46C}
+		{5216DB30-846A-4B54-9B5B-B11DF92F9E70} = {C8B41406-6CF2-459E-A658-53655301E46C}
 	EndGlobalSection
 EndGlobal
