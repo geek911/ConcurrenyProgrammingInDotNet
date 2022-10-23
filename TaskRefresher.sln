@@ -4,6 +4,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson02", "Lesson02", "{C8
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateAndStartTaskPractical", "CreateAndStartTaskPractical\CreateAndStartTaskPractical.csproj", "{38187AA5-754D-4EF5-B1FE-8D152CBE97AD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CancellingTaskPractical", "CancellingTaskPractical\CancellingTaskPractical.csproj", "{4F2C58AD-35C3-4C02-8320-B31A5A4980BF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -14,8 +16,13 @@ Global
 		{38187AA5-754D-4EF5-B1FE-8D152CBE97AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38187AA5-754D-4EF5-B1FE-8D152CBE97AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38187AA5-754D-4EF5-B1FE-8D152CBE97AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F2C58AD-35C3-4C02-8320-B31A5A4980BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F2C58AD-35C3-4C02-8320-B31A5A4980BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F2C58AD-35C3-4C02-8320-B31A5A4980BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F2C58AD-35C3-4C02-8320-B31A5A4980BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{38187AA5-754D-4EF5-B1FE-8D152CBE97AD} = {C8B41406-6CF2-459E-A658-53655301E46C}
+		{4F2C58AD-35C3-4C02-8320-B31A5A4980BF} = {C8B41406-6CF2-459E-A658-53655301E46C}
 	EndGlobalSection
 EndGlobal
